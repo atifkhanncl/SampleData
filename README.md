@@ -2,7 +2,7 @@
 Please find sample images in respective folders.
 
 # Annotation assessment:
-1. Before executing python or ipythone script please set the data i.e. place images, masks in respective folders 
+1. Before executing python or ipython script please set the data i.e. place images, masks in respective folders 
 2. Script will generate three out puts <br />
    1. IoU score in CSV file for respective fibres <br />
    2. IoU images for respective fibres and <br />
